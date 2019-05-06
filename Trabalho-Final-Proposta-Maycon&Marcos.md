@@ -28,4 +28,4 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
   Protótipos para as páginas (descrever quais páginas) foram elaborados, e podem ser encontrados em...
 
 ### 5. Referências
-Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT.
+
