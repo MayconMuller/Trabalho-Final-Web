@@ -25,7 +25,7 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
-  Protótipos para as páginas (descrever quais páginas) foram elaborados, e podem ser encontrados em...
+  
 
 ### 5. Referências
 
